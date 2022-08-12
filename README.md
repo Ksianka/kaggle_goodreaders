@@ -1,1 +1,1 @@
-# kaggle_goodreaders
+# goodreaders
